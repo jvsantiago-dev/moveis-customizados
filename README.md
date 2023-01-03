@@ -10,7 +10,6 @@
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 	<img src="https://img.shields.io/github/license/jvsantiago-dev/moveis-customizados?color=brightgreen"/>
 	<img src="https://img.shields.io/github/last-commit/jvsantiago-dev/moveis-customizados?color=brightgreen"/>
-	<img src="https://img.shields.io/github/languages/count/jvsantiago-dev/moveis-customizados?color=brightgreen"/>
 </p>
 
 <h4 align="center">
